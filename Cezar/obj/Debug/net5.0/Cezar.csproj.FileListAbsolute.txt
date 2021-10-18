@@ -1,0 +1,16 @@
+C:\Users\slipk\source\repos\Cezar\Cezar\obj\Debug\net5.0\Cezar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\slipk\source\repos\Cezar\Cezar\obj\Debug\net5.0\Cezar.AssemblyInfoInputs.cache
+C:\Users\slipk\source\repos\Cezar\Cezar\obj\Debug\net5.0\Cezar.AssemblyInfo.cs
+C:\Users\slipk\source\repos\Cezar\Cezar\obj\Debug\net5.0\Cezar.csproj.CoreCompileInputs.cache
+C:\Users\slipk\source\repos\Cezar\Cezar\bin\Debug\net5.0\Cezar.exe
+C:\Users\slipk\source\repos\Cezar\Cezar\bin\Debug\net5.0\Cezar.deps.json
+C:\Users\slipk\source\repos\Cezar\Cezar\bin\Debug\net5.0\Cezar.runtimeconfig.json
+C:\Users\slipk\source\repos\Cezar\Cezar\bin\Debug\net5.0\Cezar.runtimeconfig.dev.json
+C:\Users\slipk\source\repos\Cezar\Cezar\bin\Debug\net5.0\Cezar.dll
+C:\Users\slipk\source\repos\Cezar\Cezar\bin\Debug\net5.0\ref\Cezar.dll
+C:\Users\slipk\source\repos\Cezar\Cezar\bin\Debug\net5.0\Cezar.pdb
+C:\Users\slipk\source\repos\Cezar\Cezar\obj\Debug\net5.0\Cezar.dll
+C:\Users\slipk\source\repos\Cezar\Cezar\obj\Debug\net5.0\ref\Cezar.dll
+C:\Users\slipk\source\repos\Cezar\Cezar\obj\Debug\net5.0\Cezar.pdb
+C:\Users\slipk\source\repos\Cezar\Cezar\obj\Debug\net5.0\Cezar.genruntimeconfig.cache
+C:\Users\slipk\source\repos\Cezar\Cezar\obj\Debug\net5.0\Cezar.csproj.AssemblyReference.cache
